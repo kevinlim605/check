@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/scss/material-kit-react.scss?v=1.9.0';
 import 'font-awesome/css/font-awesome.css';
+import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
