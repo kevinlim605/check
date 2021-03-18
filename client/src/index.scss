@@ -12,7 +12,25 @@ hr {
   background-color: #111111;
   p {
     margin-bottom: 0;
+    font-size: 12px;
   }
+}
+
+.sub-headers {
+  font-weight: normal;
+  text-transform: none;
+  color: #7e7e7e;
+}
+
+.sub-headers:hover {
+  color: #ffffff;
+}
+
+.bottom-headers {
+  font-size: 10px;
+  font-weight: normal;
+  text-transform: none;
+  color: #7e7e7e;
 }
 
 .circle-icon {

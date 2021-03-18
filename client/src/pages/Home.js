@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
+import Button from '../components/material-kit-react/CustomButtons/Button';
 
 const Home = () => {
   return (
@@ -18,6 +19,19 @@ const Home = () => {
         </Col>
         <Col>
           <Image src="/images/airmaxkids.png" alt="air max kids" fluid />
+        </Col>
+      </Row>
+      <Row className="mt-5 text-align-center">
+        <Col xs={12}>
+          <Image src="/images/motto.png" alt="motto" fluid />
+        </Col>
+        <Col xs={12} className="text-center">
+          <Button color="dark" round>
+            <b>Join Us</b>
+          </Button>
+          <Button color="dark" round>
+            <b>Sign In</b>
+          </Button>
         </Col>
       </Row>
     </Container>
