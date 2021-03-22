@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'reactstrap';
 
 const Footer = () => {
   return (
-    <footer className="site-footer mt-5">
+    <footer className="site-footer pb-3 mt-5">
       <Container>
         <Row className="pt-4">
           <Col xs={{ size: 2 }}>
@@ -45,7 +45,7 @@ const Footer = () => {
           <Col>
             <RoomIcon />{' '}
             <h6 className="bottom-headers d-inline">
-              United State &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; 2021
+              United States &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; 2021
               Check, Inc. All Rights Reserved
             </h6>
           </Col>

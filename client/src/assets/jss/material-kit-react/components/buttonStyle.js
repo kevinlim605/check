@@ -148,7 +148,7 @@ const buttonStyle = {
   white: {
     '&,&:focus,&:hover,&:visited': {
       backgroundColor: '#FFFFFF',
-      color: grayColor,
+      color: darkColor,
     },
   },
   twitter: {
