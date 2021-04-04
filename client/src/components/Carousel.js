@@ -1,13 +1,5 @@
 import React from 'react';
-// react component for creating beautiful carousel
 import Carousel from 'react-slick';
-// material-ui components
-// @material-ui/icons
-import LocationOn from '@material-ui/icons/LocationOn';
-// core components
-import GridContainer from './material-kit-react/Grid/GridContainer.js';
-import GridItem from './material-kit-react/Grid/GridItem.js';
-import Card from './material-kit-react/Card/Card.js';
 
 const ProductCarousel = ({ images }) => {
   const settings = {
@@ -19,9 +11,6 @@ const ProductCarousel = ({ images }) => {
     autoplay: true,
   };
   return (
-    // <GridContainer>
-    //   <GridItem xs={12} sm={12} md={8}>
-    //     <Card>
     <Carousel {...settings}>
       {images.map((image) => (
         <div>
@@ -29,9 +18,6 @@ const ProductCarousel = ({ images }) => {
         </div>
       ))}
     </Carousel>
-    //     </Card>
-    //   </GridItem>
-    // </GridContainer>
   );
 };
 

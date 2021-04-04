@@ -50,7 +50,7 @@ const Footer = () => {
             </h6>
           </Col>
           <Col className="ml-auto">
-            <h6 className="bottom-headers"></h6>
+            {/* <h6 className="bottom-headers"></h6> */}
           </Col>
         </Row>
       </Container>
