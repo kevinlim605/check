@@ -76,7 +76,9 @@ const MyHeader = () => {
                 onClick={(e) => e.preventDefault()}
                 color="transparent"
               >
-                <AccountCircleIcon /> Sign In
+                <Link to="/login">
+                  <AccountCircleIcon /> Sign In
+                </Link>
               </Button>
             </ListItem>
           </List>

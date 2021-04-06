@@ -1,6 +1,6 @@
 import { container } from '../../../material-kit-react';
 
-import image from '../../../../img/sign';
+import image from '../../../../img/sign.jpg';
 
 const loginStyle = {
   section: {

@@ -8,6 +8,8 @@ import Footer from './components/Footer';
 import HomePage from './pages/Home';
 import ProductListingPage from './pages/ProductListing';
 import ProductPage from './pages/Product';
+import LoginPage from './pages/Login';
+import RegisterPage from './pages/Register';
 
 const store = ConfigureStore();
 
@@ -18,6 +20,8 @@ const App = () => {
         <Header />
         <Route path="/products/product" component={ProductPage} />
         <Route path="/products" component={ProductListingPage} />
+        <Route path="/login" component={LoginPage} />
+        <Route path="/register" component={RegisterPage} />
         <Route exact path="/" component={HomePage} />
         <Footer />
       </Router>

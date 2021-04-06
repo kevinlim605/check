@@ -15,8 +15,8 @@ import Tooltip from '@material-ui/core/Tooltip';
 import { Apps, CloudDownload } from '@material-ui/icons';
 
 // core components
-import CustomDropdown from '../CustomDropdown/CustomDropdown.js';
-import Button from '../CustomButtons/Button.js';
+import CustomDropdown from '../CustomDropdown/CustomDropdown';
+import Button from '../CustomButtons/Button';
 
 import styles from '../../../assets/jss/material-kit-react/components/headerLinksStyle';
 

@@ -2878,6 +2878,63 @@ const products = [
         ],
       },
       {
+        color: 'Green',
+        images: [
+          '/images/nike-wildhorse-7-green-1.jpeg',
+          '/images/nike-wildhorse-7-green-2.jpeg',
+          '/images/nike-wildhorse-7-green-3.jpeg',
+          '/images/nike-wildhorse-7-green-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+      {
         color: 'Black',
         images: [
           '/images/nike-wildhorse-7-black-1.jpeg',
@@ -3445,6 +3502,384 @@ const products = [
           '/images/nike-react-infinity-run-flyknit-2-grey-2.jpeg',
           '/images/nike-react-infinity-run-flyknit-2-grey-3.jpeg',
           '/images/nike-react-infinity-run-flyknit-2-grey-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Nike Air Zoom Tempo NEXT',
+    description:
+      'The Nike Air Zoom Tempo NEXT% mixes durability with a design that helps push you toward your personal best. The result is a shoe built like a racer, but made for your everyday training routine.',
+    brand: 'Nike',
+    category: 'Running',
+    type: 'Shoe',
+    genderOrDemographic: 'Men',
+    price: 199.99,
+    options: [
+      {
+        color: 'Black',
+        images: [
+          '/images/nike-air-zoom-tempo-next-black-1.jpeg',
+          '/images/nike-air-zoom-tempo-next-black-2.jpeg',
+          '/images/nike-air-zoom-tempo-next-black-3.jpeg',
+          '/images/nike-air-zoom-tempo-next-black-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+      {
+        color: 'Orange',
+        images: [
+          '/images/nike-air-zoom-tempo-next-orange-1.jpeg',
+          '/images/nike-air-zoom-tempo-next-orange-2.jpeg',
+          '/images/nike-air-zoom-tempo-next-orange-3.jpeg',
+          '/images/nike-air-zoom-tempo-next-orange-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+      {
+        color: 'White',
+        images: [
+          '/images/nike-air-zoom-tempo-next-white-1.jpeg',
+          '/images/nike-air-zoom-tempo-next-white-2.jpeg',
+          '/images/nike-air-zoom-tempo-next-white-3.jpeg',
+          '/images/nike-air-zoom-tempo-next-white-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Nike Air Zoom Tempo NEXT FlyEase',
+    description:
+      'The ultra-responsive Nike Air Zoom Tempo NEXT% FlyEase is designed to help you get the most from your training runs, so you can go confidently into your next (or first) race. It has a step-in entry and an internal lacing mechanism you operate with one hand. Pull one loop to tighten, another to release.',
+    brand: 'Nike',
+    category: 'Running',
+    type: 'Shoe',
+    genderOrDemographic: 'Men',
+    price: 199.99,
+    options: [
+      {
+        color: 'Black',
+        images: [
+          '/images/nike-air-zoom-tempo-next-flyease-black-1.jpeg',
+          '/images/nike-air-zoom-tempo-next-flyease-black-2.jpeg',
+          '/images/nike-air-zoom-tempo-next-flyease-black-3.jpeg',
+          '/images/nike-air-zoom-tempo-next-flyease-black-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Nike React Miler 2',
+    description:
+      'When running becomes a daily habit, stability and comfort are crucial. The Nike React Miler 2 delivers—bringing back the cushioning and intuitive design of its predecessor. Its redesigned upper helps cut down on the bulk, offering support and a secure feel on long and short runs.',
+    brand: 'Nike',
+    category: 'Running',
+    type: 'Shoe',
+    genderOrDemographic: 'Men',
+    price: 119.99,
+    options: [
+      {
+        color: 'Blue',
+        images: [
+          '/images/nike-react-miler-2-blue-1.jpeg',
+          '/images/nike-react-miler-2-blue-2.png',
+          '/images/nike-react-miler-2-blue-3.png',
+          '/images/nike-react-miler-2-blue-4.jpeg',
+        ],
+        numReviews: 0,
+        rating: 4.5,
+        stock: [
+          {
+            size: '6',
+            numInStock: 10,
+          },
+          {
+            size: '6.5',
+            numInStock: 10,
+          },
+          {
+            size: '7',
+            numInStock: 10,
+          },
+          {
+            size: '7.5',
+            numInStock: 10,
+          },
+          {
+            size: '8',
+            numInStock: 10,
+          },
+          {
+            size: '8.5',
+            numInStock: 10,
+          },
+          {
+            size: '9',
+            numInStock: 10,
+          },
+          {
+            size: '9.5',
+            numInStock: 10,
+          },
+          {
+            size: '10',
+            numInStock: 10,
+          },
+          {
+            size: '10.5',
+            numInStock: 10,
+          },
+          {
+            size: '11',
+            numInStock: 10,
+          },
+        ],
+      },
+      {
+        color: 'Black',
+        images: [
+          '/images/nike-react-miler-2-black-1.jpeg',
+          '/images/nike-react-miler-2-black-2.jpeg',
+          '/images/nike-react-miler-2-black-3.jpeg',
+          '/images/nike-react-miler-2-black-4.jpeg',
         ],
         numReviews: 0,
         rating: 4.5,
